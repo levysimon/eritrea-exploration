@@ -1,4 +1,5 @@
 .env
+.DS_Store
 health.csv
 data/
 figures/
